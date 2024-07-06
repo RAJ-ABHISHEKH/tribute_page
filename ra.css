@@ -1,0 +1,92 @@
+*{
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+
+h1{
+    color:rgb(24, 151, 151);
+    font-size: 32px; /* Typically, around 32px */
+}
+
+h2{
+    font-size: 24px; /* Typically, around 24px */
+}
+
+h3{
+    font-size: 20px; /* Typically, around 20px */
+}
+
+h4{
+    font-size: 16px; /* Typically, around 16px */
+}
+
+h5{
+    font-size: 14px; /* Typically, around 14px */
+}
+
+h6{
+    font-size: 12px; /* Typically, around 12px */
+}
+
+.space{
+    margin-top:20px;
+}
+#discription h1{
+    
+    text-align: center;
+}
+#discription h2{
+    /* color:cadetblue; */
+    color:rgb(139, 9, 121);
+    padding:10px 20px;
+}
+#discription h3{
+    padding:10px 20px;
+   
+}
+#discription h4{
+     
+    /* text-align: center; */
+    padding:10px 20px;
+}
+#discription p{
+    
+    padding:10px 20px;
+}
+#discription img{
+
+   padding:10px;
+}
+.container table {
+    
+    width:500px;
+    background-color: aquamarine;
+    border: 4px solid #036126;
+    color: rgb(6, 1, 24);
+    padding: 10px 20px;
+    margin-left:20px;
+}
+/* .container .table_desp{
+    display:flex;
+    justify-content: center;
+} */
+.container1 table{
+   
+    /* width:500px; */
+    background-color: aquamarine;
+    border: 4px solid #036126;
+    border-radius:4px;
+    color: rgb(6, 1, 24);
+    margin-left:20px;
+    padding: 10px 20px;
+}
+ /* .container1{
+    display:flex;
+    justify-content: start;
+} */
+
+/* .container p{
+
+} */
